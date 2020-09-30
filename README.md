@@ -7,6 +7,7 @@
 #### [Week3](https://github.com/yerin85/PS/tree/master/Week3)
 ###### * level1(실패율) 
 ###### * level2(문자열압축, 방금그곡)
+---
 
 <details>
 <summary><a href="https://github.com/yerin85/PS/tree/master/Week2">Week2</a></summary>
