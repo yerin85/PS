@@ -4,10 +4,18 @@
 ***
 ### 주차별 문제
 
-#### [Week3](https://github.com/yerin85/PS/tree/master/Week3)
-###### * level1(실패율) 
-###### * level2(문자열압축, 방금그곡)
+#### [Week4](https://github.com/yerin85/PS/tree/master/Week4)
+###### * level3(네트워크) 
+
 ---
+<details>
+<summary><a href="https://github.com/yerin85/PS/tree/master/Week3">Week3</a></summary>
+<div markdown="1">
+<ul>
+<li>level1(실패율) </li>
+<li> level2(문자열압축, 방금그곡) </li> </ul>
+</div>
+</details>
 
 <details>
 <summary><a href="https://github.com/yerin85/PS/tree/master/Week2">Week2</a></summary>
