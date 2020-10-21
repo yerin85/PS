@@ -5,10 +5,18 @@
 ***
 >### 주차별 문제
 >
->#### [Week5](https://github.com/yerin85/PS/tree/master/Week5)
->###### * level3([디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)) 
+>#### [Week6](https://github.com/yerin85/PS/tree/master/Week6)
+>###### * level2([괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)) 
 >
 >---
+>><details>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week5">Week5</a></summary>
+>><div markdown="1">
+>><ul>
+>><li>level3(디스크 컨트롤러)  </li>
+>></div>
+>></details>
+>>
 >><details>
 >><summary><a href="https://github.com/yerin85/PS/tree/master/Week4">Week4</a></summary>
 >><div markdown="1">
