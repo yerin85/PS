@@ -1,6 +1,7 @@
 # :seedling:Programmers_solving:seedling:
 
 > ##### 프로그래머스 문제를 풀고있습니다:octocat:
+> #### Y:cat: C:hamster: 
 
 ***
 >### 주차별 문제
