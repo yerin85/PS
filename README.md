@@ -5,15 +5,23 @@
 ***
 >### 주차별 문제
 >
->#### [Week6](https://github.com/yerin85/PS/tree/master/Week6)
->###### * level2([괄호 변환](https://programmers.co.kr/learn/courses/30/lessons/60058)) 
+>#### [Week7](https://github.com/yerin85/PS/tree/master/Week7)
+>###### * level3([여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)) 
 >
 >---
 >><details>
->><summary><a href="https://github.com/yerin85/PS/tree/master/Week5">Week5</a></summary>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week6">Week6</a>:hamster:</summary>
 >><div markdown="1">
 >><ul>
->><li>level3(디스크 컨트롤러)  </li>
+>><li> level2(괄호 변환):cat:  </li>
+>></div>
+>></details>
+>>
+>><details>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week5">Week5</a>:cat::hamster:</summary>
+>><div markdown="1">
+>><ul>
+>><li>level3(디스크 컨트롤러)</li>
 >></div>
 >></details>
 >>
@@ -21,16 +29,17 @@
 >><summary><a href="https://github.com/yerin85/PS/tree/master/Week4">Week4</a></summary>
 >><div markdown="1">
 >><ul>
->><li>level3(네트워크)  </li>
+>><li>level3(네트워크):cat::hamster: </li>
 >></div>
 >></details>
 >>
 >><details>
->><summary><a href="https://github.com/yerin85/PS/tree/master/Week3">Week3</a></summary>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week3">Week3</a>:hamster:</summary>
 >><div markdown="1">
 >><ul>
->><li> level1(실패율) </li>
->><li> level2(문자열압축, 방금그곡) </li> </ul>
+>><li> level1(실패율):cat::hamster: </li>
+>><li> level2(문자열압축):cat: </li>
+>><li> level2(방금그곡):cat::hamster: </li> </ul>
 >></div>
 >></details>
 >>
@@ -38,16 +47,16 @@
 >><summary><a href="https://github.com/yerin85/PS/tree/master/Week2">Week2</a></summary>
 >><div markdown="1">
 >><ul>
->><li>level1(크레인 인형뽑기) </li>
->><li> level2(더 맵게) </li> </ul>
+>><li>level1(크레인 인형뽑기):cat::hamster:</li> 
+>><li> level2(더 맵게):cat::hamster: </li> </ul> 
 >></div>
 >></details>
 >>
 >><details>
->><summary><a href="https://github.com/yerin85/PS/tree/master/Week1">Week1</a></summary>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week1">Week1</a> </summary> 
 >><div markdown="1"><ul>
->><li>level1(다트게임)</li> 
->><li>level2(다리를 지나는 트럭)</li>
+>><li>level1(다트게임):cat::hamster:</li> 
+>><li>level2(다리를 지나는 트럭):cat::hamster:</li>
 >> </ul></div>
 >></details>
 >>
