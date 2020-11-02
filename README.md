@@ -6,10 +6,18 @@
 ***
 >### 주차별 문제
 >
->#### [Week7](https://github.com/yerin85/PS/tree/master/Week7) :hamster:
->###### * level3([여행경로](https://programmers.co.kr/learn/courses/30/lessons/43164)) :cat:
+>#### [Week8](https://github.com/yerin85/PS/tree/master/Week8) :hamster::cat:
+>###### * level3([](https://programmers.co.kr/learn/courses/30/lessons/67258)) 
 >
 >---
+>><details>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week7">Week7</a>:hamster:</summary>
+>><div markdown="1">
+>><ul>
+>><li> level3(여행경로):cat:  </li>
+>></div>
+>></details>
+>>
 >><details>
 >><summary><a href="https://github.com/yerin85/PS/tree/master/Week6">Week6</a>:hamster:</summary>
 >><div markdown="1">
