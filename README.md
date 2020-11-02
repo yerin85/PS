@@ -7,7 +7,7 @@
 >### 주차별 문제
 >
 >#### [Week8](https://github.com/yerin85/PS/tree/master/Week8) :hamster::cat:
->###### * level3([](https://programmers.co.kr/learn/courses/30/lessons/67258)) 
+>###### * level3([보석 쇼핑](https://programmers.co.kr/learn/courses/30/lessons/67258)) 
 >
 >---
 >><details>
