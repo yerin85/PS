@@ -8,7 +8,7 @@
 >
 
 >#### [Week9](https://github.com/yerin85/PS/tree/master/Week9) :hamster::cat:
->###### * level2([수식 ](https://programmers.co.kr/learn/courses/30/lessons/67257)) 
+>###### * level2([수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)) 
 >
 >---
 >><details>
