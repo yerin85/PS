@@ -12,7 +12,7 @@
 >
 >---
 >><details>
->><summary><a href="https://github.com/yerin85/PS/tree/master/Week8">Week8</a>:hamster::cat:</summary>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week8">Week8</a>:hamster:</summary>
 >><div markdown="1">
 >><ul>
 >><li> level3(보석쇼핑)  </li>
