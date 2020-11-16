@@ -5,12 +5,19 @@
 
 ***
 >### 주차별 문제
->
+> 
 
->#### [Week9](https://github.com/yerin85/PS/tree/master/Week9) :hamster:
->###### * level2([수식 최대화](https://programmers.co.kr/learn/courses/30/lessons/67257)) 
+>#### [Week10](https://github.com/yerin85/PS/tree/master/Week10) :hamster::cat:
+>###### * level3([단속 카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)) 
 >
 >---
+>><details>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week9">Week9</a>:hamster:</summary>
+>><div markdown="1">
+>><ul>
+>><li> level2(수식 최대화)  </li>
+>></div>
+>></details>
 >><details>
 >><summary><a href="https://github.com/yerin85/PS/tree/master/Week8">Week8</a>:hamster:</summary>
 >><div markdown="1">
