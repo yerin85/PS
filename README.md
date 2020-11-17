@@ -7,7 +7,7 @@
 >### 주차별 문제
 > 
 
->#### [Week10](https://github.com/yerin85/PS/tree/master/Week10) :hamster::cat:
+>#### [Week10](https://github.com/yerin85/PS/tree/master/Week10) :hamster:
 >###### * level3([단속 카메라](https://programmers.co.kr/learn/courses/30/lessons/42884)) 
 >
 >---
