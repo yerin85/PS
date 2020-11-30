@@ -7,7 +7,7 @@
 >### 주차별 문제
 > 
 
->#### [Week12](https://github.com/yerin85/PS/tree/master/Week12) :hamster::cat:
+>#### [Week12](https://github.com/yerin85/PS/tree/master/Week12) :hamster:
 >###### * level2([프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)) 
 >
 >---
