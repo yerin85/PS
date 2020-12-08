@@ -6,13 +6,20 @@
 ***
 >### 주차별 문제
 > 
-
->#### [Week12](https://github.com/yerin85/PS/tree/master/Week12) :hamster:
->###### * level2([프린터](https://programmers.co.kr/learn/courses/30/lessons/42587)) 
+>#### [Week12](https://github.com/yerin85/PS/tree/master/Week12) :hamster::cat:
+>###### * level2([위장](https://programmers.co.kr/learn/courses/30/lessons/42578)) 
+>###### * level2([조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)) 
 >
 >---
 >><details>
->><summary><a href="https://github.com/yerin85/PS/tree/master/Week10">Week11</a>:hamster::cat:</summary>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week12">Week12</a>:hamster:</summary>
+>><div markdown="1">
+>><ul>
+>><li> level2(프린터)  </li>
+>></div>
+>></details>
+>><details>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week11">Week11</a>:hamster::cat:</summary>
 >><div markdown="1">
 >><ul>
 >><li> level3(입국심사)  </li>
