@@ -6,11 +6,18 @@
 ***
 >### 주차별 문제
 > 
->#### [Week13](https://github.com/yerin85/PS/tree/master/Week13) :hamster::cat:
->###### * level2([위장](https://programmers.co.kr/learn/courses/30/lessons/42578)) 
->###### * level2([조이스틱](https://programmers.co.kr/learn/courses/30/lessons/42860)) 
+>#### [Week14](https://github.com/yerin85/PS/tree/master/Week14) :hamster::cat:
+>###### * level2([타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)) 
 >
 >---
+>><details>
+>><summary><a href="https://github.com/yerin85/PS/tree/master/Week13">Week13</a>:hamster:</summary>
+>><div markdown="1">
+>><ul>
+>><li> level2(위장)  </li>
+>><li> level2(조이스틱)  </li>
+>></div>
+>></details>
 >><details>
 >><summary><a href="https://github.com/yerin85/PS/tree/master/Week12">Week12</a>:hamster:</summary>
 >><div markdown="1">
